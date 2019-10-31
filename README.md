@@ -10,3 +10,5 @@ Mutation rate is a constant which determines how much will be changed in the off
 double fitness in Bird class stores and updates the fitness
 # Game
 Experiment with the pipe width and gap from the Game class, and speed from Wall class
+# Play
+Play the game yourself by changing boolean playable in Simulator class to true
